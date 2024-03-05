@@ -28,4 +28,5 @@ https://www.kaggle.com/datasets/mostafaabla/garbage-classification<br>
 https://teachablemachine.withgoogle.com/<br>
 O kaggle é um repositório de database de vários coisas e o que eu estarei usando é<br>
 um classificador de 12 itens de lixo , já o teachable é uma IA de treinamento de<br>
-de imagens, poses e sons 
+de imagens, poses e sons , tendo a pasta tm-my-image-model
+
