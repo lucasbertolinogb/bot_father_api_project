@@ -12,7 +12,7 @@ o que ele é : Um projeto para fazer um bot para a matéria web avançada
 ## Começo do projeto BotFather : 
 [Api para usar o botFather](https://www.npmjs.com/package/node-telegram-bot-api)<br>
 Como começar a criar o projeto : <br> 
-1º faz um projeto , entre usando visual code <br>
+1º crie uma pasta na sua área de trabalho , entre usando visual code <br>
 2º use o terminal do visual code , usando "npm init -y" <br>
 3º depois use "npm i node-telegram-bot-api" <br>
 4º crie um arquivo dentro de sua pasta chamada <bot.js> ´´exemplo´´ <br>
