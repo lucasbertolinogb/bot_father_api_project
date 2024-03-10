@@ -42,14 +42,19 @@ Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos
 O kaggle é um repositório de database de vários coisas e o que eu estarei usando é <br>
 um classificador de 12 itens de lixo , já o teachable é uma IA de treinamento de <br>
 de imagens, poses e sons , tendo a pasta tm-my-image-model <br>
-**OBS:**Já tem esta parte pronta no zip -> tm-my-image-model.zip
+**OBS:** Já tem esta parte pronta no zip -> tm-my-image-model.zip
 
 
->EXTRA (não precisa usar se não quiser)
 
 ## Turbinando o projeto, usando nodemon, para não precisar sair e entrar no servidor para salvar <br>
-As mudanças: <br>
+>EXTRA (não precisa usar se não quiser)
+
 [Nodemon](https://www.npmjs.com/package/nodemon) <br>
+As mudanças: <br>
 1º no terminal use "npm install--save-dev nodemon" <br>
-2º em seguida use "npx nodemon ./nome de do arquivo" com os códigos do bot 
+2º em seguida use "npx nodemon ./nome de do arquivo" com os códigos do bot <br>
+Depois deste 2º comando toda vez que você salvar os códigos ele automaticamente <br>
+passa seus códigos em execução e sem a necessidade de sair toda hora e ver se deu certo <br>
+
+
 
