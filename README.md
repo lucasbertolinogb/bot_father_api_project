@@ -41,7 +41,8 @@ Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos
 [Teachable Machine](https://teachablemachine.withgoogle.com/) <br>
 O kaggle é um repositório de database de vários coisas e o que eu estarei usando é <br>
 um classificador de 12 itens de lixo , já o teachable é uma IA de treinamento de <br>
-de imagens, poses e sons , tendo a pasta tm-my-image-model
+de imagens, poses e sons , tendo a pasta tm-my-image-model <br>
+**OBS:**Já tem esta parte pronta no zip -> tm-my-image-model.zip
 
 
 >EXTRA (não precisa usar se não quiser)
