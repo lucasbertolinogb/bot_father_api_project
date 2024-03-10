@@ -16,7 +16,7 @@ Como começar a criar o projeto : <br>
 2º use o terminal do visual code , usando "npm init -y" <br>
 3º depois use "npm i node-telegram-bot-api" <br>
 4º crie um arquivo dentro de sua pasta chamada <bot.js> ´´exemplo´´ <br>
-5º entre no link acima da api e cole nesse novo arquivo criado <br>
+5º entre no link acima e cole nesse novo arquivo criado <br>
 
 ## O que é o bot, ou botFather, e como usa-lo :
 O botFather nada mais é do que um bot que cria, gerencia e manipula bot´s <br>
@@ -31,8 +31,8 @@ Com isso so é preciso algumas nomeações e finalmente após esses nomes <br>
 
 E terminamos recebendo a chave para usar finalmente o bot 
 
-## Mexendo nos códigos :
-Agora vem a parte boa que o adulto chora e os a sociedade só reclama de atualizações demoradas. <br>
+## Mexendo nos códigos :(ainda fazendo)
+Agora vem a parte boa que o adulto chora e a sociedade só reclama de atualizações demoradas. <br>
 Com as etapas duas etapas acimas feitas é hora de alguns ajustes nos códigos. <br>
 Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos  
 
