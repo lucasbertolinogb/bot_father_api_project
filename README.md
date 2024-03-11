@@ -6,6 +6,7 @@ o que ele é : Um projeto para fazer um bot para a matéria web avançada
 [IA para reconhecer imagens](https://teachablemachine.withgoogle.com/) <br>
 [Coleção de dados usados](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) <br>
 [Uso rápido do servidor automático](https://www.npmjs.com/package/nodemon) <br>
+[TensorFlow](https://www.npmjs.com/package/@tensorflow/tfjs-node?activeTab=readme) <br>
 
 
 
@@ -45,6 +46,9 @@ de imagens, poses e sons , tendo a pasta tm-my-image-model <br>
 **OBS:** Já tem esta parte pronta no zip -> tm-my-image-model.zip
 
 
+## Usando o TensorFlow: (novo) <br> 
+[TensorFlow](https://www.npmjs.com/package/@tensorflow/tfjs-node?activeTab=readme) <br>
+
 
 ## Turbinando o projeto, usando nodemon, para não precisar sair e entrar no servidor para salvar <br>
 >EXTRA (não precisa usar se não quiser)
@@ -56,5 +60,6 @@ As mudanças: <br>
 Depois deste 2º comando toda vez que você salvar os códigos ele automaticamente <br>
 passa seus códigos em execução e sem a necessidade de sair toda hora e ver se deu certo <br>
 
-
+ultimas mudanças: <br>
+https://www.npmjs.com/package/shap <br>
 
