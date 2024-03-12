@@ -32,10 +32,17 @@ Com isso so é preciso algumas nomeações e finalmente após esses nomes <br>
 
 E terminamos recebendo a chave para usar finalmente o bot 
 
-## Mexendo nos códigos :(ainda fazendo)
+## Entendo as funções dos códigos :(ainda fazendo)
 Agora vem a parte boa que o adulto chora e a sociedade só reclama de atualizações demoradas. <br>
 Com as etapas duas etapas acimas feitas é hora de alguns ajustes nos códigos. <br>
 Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos  <br>
+`Agora vem a parte boa` <br>
+Na api do telegram bot tem a função "bot.on" e nele é por onde o bot pode <br>
+"ouvir", responder e mudar a curso da conversa com a pessoa, sendo ela <br>
+a parte de maior foco para gerenciar suas conversa. <br>
+
+### Códigos :(ainda fazendo)
+Em bot.on
 
 
 ## Usando um classificador mais um IA de reconhecimento de imagens : <br>
@@ -63,6 +70,5 @@ passa seus códigos em execução e sem a necessidade de sair toda hora e ver se
 
 ultimas mudanças: <br>
 https://www.npmjs.com/package/shap <br>
-https://www.npmjs.com/package/dotenv <br>
 https://www.npmjs.com/package/dotenv <br>
 
