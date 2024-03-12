@@ -35,7 +35,8 @@ E terminamos recebendo a chave para usar finalmente o bot
 ## Mexendo nos códigos :(ainda fazendo)
 Agora vem a parte boa que o adulto chora e a sociedade só reclama de atualizações demoradas. <br>
 Com as etapas duas etapas acimas feitas é hora de alguns ajustes nos códigos. <br>
-Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos  
+Primeiramente adcione sua chave criada dentro do seu arquivo.js com os códigos  <br>
+
 
 ## Usando um classificador mais um IA de reconhecimento de imagens : <br>
 [Kaggle](https://www.kaggle.com/datasets/mostafaabla/garbage-classification) <br>
@@ -62,4 +63,6 @@ passa seus códigos em execução e sem a necessidade de sair toda hora e ver se
 
 ultimas mudanças: <br>
 https://www.npmjs.com/package/shap <br>
+https://www.npmjs.com/package/dotenv <br>
+https://www.npmjs.com/package/dotenv <br>
 
